@@ -1,0 +1,13 @@
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\Information-application-console.exe.config
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\Information-application-console.exe
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\Information-application-console.pdb
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\EntityFramework.dll
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\EntityFramework.xml
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\obj\Debug\Information-application-console.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\obj\Debug\Information-application-console.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\obj\Debug\Information-application-console.csproj.CopyComplete
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\obj\Debug\Information-application-console.exe
+C:\Users\Никита\source\repos\Information-application-console\Information-application-console\Information-application-console\obj\Debug\Information-application-console.pdb
