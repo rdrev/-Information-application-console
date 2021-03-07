@@ -68,6 +68,7 @@
           <Property Name="Логин" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="Пароль" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="Отрасаль" Type="int" Nullable="false" />
+          <Property Name="Занетость" Type="bit" Nullable="false" />
         </EntityType>
         <EntityType Name="СписокИсполнителей">
           <Key>
@@ -302,6 +303,7 @@
           <Property Name="Логин" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="Пароль" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="Отрасаль" Type="Int32" Nullable="false" />
+          <Property Name="Занетость" Type="Boolean" Nullable="false" />
           <NavigationProperty Name="Отрасли" Relationship="Self.FK_Сотрудники_Отрасли" FromRole="Сотрудники" ToRole="Отрасли" />
           <NavigationProperty Name="СписокИсполнителей" Relationship="Self.FK_СписокИсполнителей_Сотрудники" FromRole="Сотрудники" ToRole="СписокИсполнителей" />
         </EntityType>
@@ -539,6 +541,7 @@
                 <ScalarProperty Name="Логин" ColumnName="Логин" />
                 <ScalarProperty Name="Пароль" ColumnName="Пароль" />
                 <ScalarProperty Name="Отрасаль" ColumnName="Отрасаль" />
+                <ScalarProperty Name="Занетость" ColumnName="Занетость" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

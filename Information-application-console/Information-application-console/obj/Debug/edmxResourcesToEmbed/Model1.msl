@@ -68,6 +68,7 @@
           <ScalarProperty Name="Логин" ColumnName="Логин" />
           <ScalarProperty Name="Пароль" ColumnName="Пароль" />
           <ScalarProperty Name="Отрасаль" ColumnName="Отрасаль" />
+          <ScalarProperty Name="Занетость" ColumnName="Занетость" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

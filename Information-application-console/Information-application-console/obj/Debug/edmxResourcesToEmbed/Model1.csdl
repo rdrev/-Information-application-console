@@ -72,6 +72,7 @@
     <Property Name="Логин" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Пароль" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Отрасаль" Type="Int32" Nullable="false" />
+    <Property Name="Занетость" Type="Boolean" Nullable="false" />
     <NavigationProperty Name="Отрасли" Relationship="Self.FK_Сотрудники_Отрасли" FromRole="Сотрудники" ToRole="Отрасли" />
     <NavigationProperty Name="СписокИсполнителей" Relationship="Self.FK_СписокИсполнителей_Сотрудники" FromRole="Сотрудники" ToRole="СписокИсполнителей" />
   </EntityType>

@@ -28,6 +28,7 @@ namespace Information_application_console
         public string Логин { get; set; }
         public string Пароль { get; set; }
         public int Отрасаль { get; set; }
+        public bool Занетость { get; set; }
     
         public virtual Отрасли Отрасли { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

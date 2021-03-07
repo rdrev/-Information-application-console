@@ -63,6 +63,7 @@
     <Property Name="Логин" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Пароль" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Отрасаль" Type="int" Nullable="false" />
+    <Property Name="Занетость" Type="bit" Nullable="false" />
   </EntityType>
   <EntityType Name="СписокИсполнителей">
     <Key>
