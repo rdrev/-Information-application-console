@@ -14,7 +14,7 @@ namespace Information_application_console
 
             while (true)
             {
-                var listZ = db.Задания.ToList().Where(p => p.Оканчание < DateTime.Today).ToList();
+                var listZ = db.Задания.ToList().Where(p => p.Оканчание < DateTime.Today && p.СтатусЗадание != 1).ToList();
 
                 foreach (var z in listZ)
                 {
